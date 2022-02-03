@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "495667930355",
+    "project_id": "omshakthi-f8ae2",
+    "storage_bucket": "omshakthi-f8ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495667930355:android:34512d2d2bc205ead08386",
+        "android_client_info": {
+          "package_name": "com.omshakthi.omshakthimusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495667930355-0ctsatpmngpknd28tmj65r38nubelhgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omshakthi.omshakthimusic",
+            "certificate_hash": "b69546d06fc8fd7296b7dd4dd79cd3a1c1d44210"
+          }
+        },
+        {
+          "client_id": "495667930355-ebu4i11i3gepr6t6duvur36cfrt7p7hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omshakthi.omshakthimusic",
+            "certificate_hash": "606277c421699e2c830ad08e8309e433be2a504b"
+          }
+        },
+        {
+          "client_id": "495667930355-odi5h5uen3ja30k5d731fd8n0g2mn7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4jiWkkROyaV789-KAuu1BQVnlVvDbo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495667930355-odi5h5uen3ja30k5d731fd8n0g2mn7bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495667930355-m6e2n8cipgrmvsgi7bj68v199pi0o2pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omshakthi.omshakthimusic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

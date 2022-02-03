@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>495667930355-mksoskd2694mu7dtis61glpv7tk6lp6a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.495667930355-mksoskd2694mu7dtis61glpv7tk6lp6a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>495667930355-0ctsatpmngpknd28tmj65r38nubelhgo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGDNcldJhwvHhykSQ2Va-0YSCmPNTKRVw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495667930355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.omshakthimusic.omshakthimusic</string>
+	<key>PROJECT_ID</key>
+	<string>omshakthi-f8ae2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>omshakthi-f8ae2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495667930355:ios:ccf78333027a3c40d08386</string>
+</dict>
+</plist>
